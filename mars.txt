@@ -1,2 +1,15 @@
 this is a test file for github training
 
+
+
+# git add saves changes ready for commitiing
+git add
+
+
+# then git commit -m "notes about change"
+git commit -m "bla"
+
+
+# git diff for changes between local files and committed files
+git diff
+git status
